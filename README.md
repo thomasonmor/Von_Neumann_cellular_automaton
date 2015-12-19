@@ -1,0 +1,2 @@
+Von Neumann cellular automata are the original expression of cellular automata, the development of which were prompted by suggestions made to John von Neumann by his close friend and fellow mathematician Stanislaw Ulam. Their original purpose was to provide insight into the logical requirements for machine self-replication and were used in von Neumann's universal constructor.
+https://en.wikipedia.org/wiki/Von_Neumann_cellular_automaton
